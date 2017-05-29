@@ -14,5 +14,11 @@ Friends tab:
 		Their shared lists.
 Todo list functionality-
 Can use without username and password, to use friends list u need an account.
+Have friend list.
+friends can send each todo lists
+can import own todo lists
+current todo list notifications
+shared list where each person has their own list but can view progress of others.
+ur todo lists that friends can view. (story lol)
 
 
